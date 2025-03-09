@@ -35,7 +35,7 @@ export default function Home({ allPostsData }) {
           <title>{siteTitle}</title>
         </Head>
         <selection className={utilsStyles.headingMd}>
-          <p>フルスタックエンジニア</p>
+          <p>フルスタックエンジニア next.js/python</p>
         </selection>
         <selection
           className={`${utilsStyles.headingMd} ${utilsStyles.padding1px}`}
